@@ -37,14 +37,19 @@ body {
 }
 
 .total label {
-    width: 70px;
+    width: 120px;
     text-align: right;
     font-size: 1.5em;
+    margin-right: 110px;
 }
 
 .total input {
     width: 150px;
     height: 40px;
     text-align: right;
+    font-size: 1.5em;
+}
+
+#yenLabel {
     font-size: 1.5em;
 }
